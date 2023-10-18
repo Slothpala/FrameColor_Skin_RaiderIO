@@ -1,0 +1,8 @@
+## Interface: 100107
+## Version: 1
+## Title: FrameColor_Skin_RaiderIO
+## Author: Slothpala
+##Dependencies: RaiderIO, FrameColor
+
+FrameColor_Skin_RaiderIO.lua
+
