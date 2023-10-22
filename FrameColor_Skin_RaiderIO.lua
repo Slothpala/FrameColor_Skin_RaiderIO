@@ -1,7 +1,7 @@
 local info = {
-    moduleName = "RaiderIO Tooltip",
+    moduleName = "RaiderIO Profile Tooltip",
     color1 = {
-        name = "Frame",
+        name = "Border",
         desc = "",
     },
     color2 = {
